@@ -48,7 +48,7 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 
     # Go to the directory
     $ cd NextLevelWeek03
-    $ cd back-end/
+    $ cd backend
 
     # Install all the dependencies
     $ yarn install
